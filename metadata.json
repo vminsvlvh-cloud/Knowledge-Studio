@@ -1,0 +1,6 @@
+{
+  "name": "Synapse Knowledge Studio",
+  "description": "Personal knowledge management system featuring interactive concept graphs, bidirectional wiki-links, unlinked references detection, AI vault synthesis, flashcards, and full Arabic language support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
